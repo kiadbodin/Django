@@ -4,7 +4,7 @@
 # Django
 
 1. <a href="https://github.com/kiadbodin/Django/tree/main/helloworld"> django hello world | เริ่มต้นสร้าง Project django </a>
-2. <a href="#"> django crud mariadb | การทำ insert update delete กับ mariadb  </a>
+2. <a href="#"> django-crud-mysql-pagination  </a>
 3. <a href="#"> django crud sql server </a>
 4. <a href="#"> django pagenation mariadb </a>
 4. <a href="#"> django upload images with pillow </a>
