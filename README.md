@@ -8,3 +8,25 @@
 3. <a href="#"> django crud sql server </a>
 4. <a href="#"> django pagenation mariadb </a>
 4. <a href="#"> django upload images with pillow </a>
+
+
+
+# Django with tempalte html Ref. https://docs.djangoproject.com/en/4.1/ref/templates/
+* การประกาศตัวแปร variables Ref. https://docs.djangoproject.com/en/4.1/ref/templates/language/#variables
+* การใช้ Tag of Django Ref. https://docs.djangoproject.com/en/4.1/ref/templates/language/#tags
+* การใช้ condition ในหน้า html Ref. 
+
+# Django กับการแสดงข้อมูลต่างๆ หน้าเว็บไซต์
+* การใช้งาน contrib ต่างๆ (https://docs.djangoproject.com/en/dev/ref/contrib/)
+* การสร้าง polls เช่น table product โดยใช้ Creating the product app ผ่าน cmd "python manage.py startapp product" 
+ Ref. <a href="https://docs.djangoproject.com/en/dev/intro/tutorial01/"> python manage.py startapp product </a> 
+* การกำหนดแสดงตัวเลข เช่น ราคาสินค้าที่มี comma Ref. <a href="https://docs.djangoproject.com/en/dev/ref/contrib/humanize/#ref-contrib-humanize"> django.contrib.humaniz </a> 
+
+# Django with Mariadb
+* Read. https://docs.djangoproject.com/en/4.1/ref/databases/#mariadb-notes
+* setting Connecting to the database Ref. https://docs.djangoproject.com/en/4.1/ref/databases/#mariadb-notes
+* edit timezone Ref. https://docs.djangoproject.com/en/4.1/ref/settings/#std-setting-OPTIONS
+
+# Django with Microsoft SQL Server
+* Read https://django-mssql.readthedocs.io/en/latest/
+* install and config for setting.py Ref. https://django-mssql.readthedocs.io/en/latest/quickstart.html#installation
