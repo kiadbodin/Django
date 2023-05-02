@@ -7,6 +7,7 @@
 2. <a href="https://github.com/kiadbodin/Django/tree/main/django-crud-mysql"> django-crud-mysql  </a>
 3. <a href="https://github.com/kiadbodin/Django/tree/main/django-crud-mysql-pagination"> django-crud-mysql-pagination  </a>
 4. <a href="https://github.com/kiadbodin/Django/tree/main/django-login-session"> django-login-session  </a>
+5. <a href="https://github.com/kiadbodin/Django/tree/main/django-crud-mssqlserver"> django-crud-mssqlserver  </a>
 4. <a href="#"> django upload images with pillow </a>
 
 
