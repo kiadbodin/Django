@@ -20,7 +20,7 @@
 # Django กับการแสดงข้อมูลต่างๆ หน้าเว็บไซต์
 * การใช้งาน contrib ต่างๆ (https://docs.djangoproject.com/en/dev/ref/contrib/)
 * การสร้าง polls เช่น table product โดยใช้ Creating the product app ผ่าน cmd "python manage.py startapp product" 
- Ref. <a href="https://docs.djangoproject.com/en/dev/intro/tutorial01/"> python manage.py startapp product </a> 
+ Ref. <a href="https://docs.djangoproject.com/en/4.2/intro/tutorial01/"> python manage.py startapp product </a> 
 * การกำหนดแสดงตัวเลข เช่น ราคาสินค้าที่มี comma Ref. <a href="https://docs.djangoproject.com/en/dev/ref/contrib/humanize/#ref-contrib-humanize"> django.contrib.humaniz </a> 
 
 # Django with Mariadb
