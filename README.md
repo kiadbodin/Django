@@ -10,6 +10,7 @@
 5. <a href="https://github.com/kiadbodin/Django/tree/main/django-crud-mssqlserver"> django-crud-mssqlserver  </a>
 6. <a href="#"> django upload images with pillow </a>
 7. <a href="#"> django upload File </a>
+8. <a href="#"> django Export CSV and PDF by reportlab </a>
 
 
 
