@@ -14,8 +14,8 @@
 
 
 # Django with tempalte html Ref. https://docs.djangoproject.com/en/4.2/ref/templates/
-* การประกาศตัวแปร variables Ref. https://docs.djangoproject.com/en/4.1/ref/templates/language/#variables
-* การใช้ Tag of Django Ref. https://docs.djangoproject.com/en/4.1/ref/templates/language/#tags
+* การประกาศตัวแปร variables Ref. https://docs.djangoproject.com/en/4.2/ref/templates/language/#variables
+* การใช้ Tag of Django Ref. https://docs.djangoproject.com/en/4.2/ref/templates/language/#tags
 * การใช้ condition ในหน้า html Ref. 
 
 # Django กับการแสดงข้อมูลต่างๆ หน้าเว็บไซต์
@@ -25,9 +25,9 @@
 * การกำหนดแสดงตัวเลข เช่น ราคาสินค้าที่มี comma Ref. <a href="https://docs.djangoproject.com/en/dev/ref/contrib/humanize/#ref-contrib-humanize"> django.contrib.humaniz </a> 
 
 # Django with Mariadb
-* Read. https://docs.djangoproject.com/en/4.1/ref/databases/#mariadb-notes
-* setting Connecting to the database Ref. https://docs.djangoproject.com/en/4.1/ref/databases/#mariadb-notes
-* edit timezone Ref. https://docs.djangoproject.com/en/4.1/ref/settings/#std-setting-OPTIONS
+* Read. https://docs.djangoproject.com/en/4.2/ref/databases/#mariadb-notes
+* setting Connecting to the database Ref. https://docs.djangoproject.com/en/4.2/ref/databases/#mariadb-notes
+* edit timezone Ref. https://docs.djangoproject.com/en/4.2/ref/settings/#std-setting-OPTIONS
 
 # Django with Microsoft SQL Server
 * Read https://django-mssql.readthedocs.io/en/latest/
