@@ -14,9 +14,9 @@
 
 
 
-# Django with tempalte html Ref.https://docs.djangoproject.com/en/5.2/contents/
-* การประกาศตัวแปร variables Ref. https://docs.djangoproject.com/en/5.2/ref/templates/language/#variables
-* การใช้ Tag of Django Ref. https://docs.djangoproject.com/en/5.2/ref/templates/language/#tags
+# Django with tempalte html Ref.https://docs.djangoproject.com/en/6.0/contents
+* การประกาศตัวแปร variables Ref. https://docs.djangoproject.com/en/6.0/topics/templates/#support-for-template-engines
+* การใช้ Tag of Django Ref. https://docs.djangoproject.com/en/6.0/ref/templates/builtins/#ref-templates-builtins-tags
 * การใช้ condition ในหน้า html Ref. 
 
 # Django กับการแสดงข้อมูลต่างๆ หน้าเว็บไซต์
