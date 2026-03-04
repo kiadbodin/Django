@@ -26,7 +26,7 @@
 * การกำหนดแสดงตัวเลข เช่น ราคาสินค้าที่มี comma Ref. <a href="https://docs.djangoproject.com/en/dev/ref/contrib/humanize/#ref-contrib-humanize"> django.contrib.humaniz </a> 
 
 # Django with Mariadb
-* Read. https://docs.djangoproject.com/en/4.2/ref/databases/#mariadb-notes
+* Read. https://docs.djangoproject.com/en/6.0/ref/databases/#mariadb-notes
 * setting Connecting to the database Ref. https://docs.djangoproject.com/en/4.2/ref/databases/#mariadb-notes
 * edit timezone Ref. https://docs.djangoproject.com/en/4.2/ref/settings/#std-setting-OPTIONS
 
